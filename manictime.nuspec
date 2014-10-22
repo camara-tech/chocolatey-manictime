@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>manictime</id>
+    <title>manictime</title>
+    <version>3.0.3.0</version>
+    <authors>italy_portugal</authors>
+    <owners>ManicTime</owners>
+    <summary>Let ManicTime focus on keeping track of your time, so you can focus on your business.</summary>
+    <description>Automatic tracking: ManicTime automatically records your computer usage. It remembers which apps you've used and for how long. It will also remember which web sites you've visited and which documents you've worked on. All this data will help you keep track of your work hours.
+
+Accurate timekeeping: All the data ManicTime collects will be presented in a easy to understand graphical interface. This will help you to quickly figure out when you went to lunch and when you've switched tasks. From now on, your logged hours will be accurate and simple to track.
+
+Easy timesheets: From the hours you logged its easy to create almost any kind of report. Once you create the report, you can easily copy it to Excel or some other tool and create an invoice there.
+
+Local storage (Offline work): ManicTime is not a cloud based service, instead it uses a local datastore, so all recorded data will be kept on your machine. This also means that it will work the same with or without internet connection.</description>
+    <projectUrl>http://www.manictime.com</projectUrl>
+    <tags>time, productivity</tags>
+    <licenseUrl>http://www.manictime.com</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://www.manictime.com/Images/logo.png</iconUrl>
+  </metadata>
+</package>
+
+
+  

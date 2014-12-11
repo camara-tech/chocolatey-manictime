@@ -1,1 +1,1 @@
-Install-ChocolateyPackage 'ManicTime' 'exe' '/quiet' 'http://cdn.manictime.com/setup/v3_0_3_0/ManicTime.exe'
+Install-ChocolateyPackage 'ManicTime' 'exe' '/quiet' 'http://cdn.manictime.com/setup/v3_0_5_0/ManicTime.exe'
